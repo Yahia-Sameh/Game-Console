@@ -1,0 +1,16 @@
+../Core/Src/XO_Game.c:83:6:XO_Game_voidRun	19
+../Core/Src/XO_Game.c:181:11:debounce	4
+../Core/Src/XO_Game.c:182:11:check_long_press	4
+../Core/Src/XO_Game.c:183:13:GUI_voidDrawBoard	1
+../Core/Src/XO_Game.c:184:13:GUI_voidDrawSymbol	4
+../Core/Src/XO_Game.c:185:13:GUI_voidDrawCursor	2
+../Core/Src/XO_Game.c:186:13:GUI_voidUpdateWinCounters	1
+../Core/Src/XO_Game.c:187:13:GUI_voidShowEndScreen	4
+../Core/Src/XO_Game.c:188:13:GUI_voidDrawString	8
+../Core/Src/XO_Game.c:195:13:Sound_voidInit	1
+../Core/Src/XO_Game.c:200:13:Sound_voidBeep	4
+../Core/Src/XO_Game.c:215:13:Sound_voidPlayClick	1
+../Core/Src/XO_Game.c:220:13:Sound_voidPlayMove	1
+../Core/Src/XO_Game.c:225:13:Sound_voidPlayWin	1
+../Core/Src/XO_Game.c:234:13:Sound_voidPlayDraw	1
+../Core/Src/XO_Game.c:241:13:Sound_voidPlayError	1

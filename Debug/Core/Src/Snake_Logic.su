@@ -1,0 +1,11 @@
+../Core/Src/Snake_Logic.c:16:13:Snake_voidGenerateFood	16	static
+../Core/Src/Snake_Logic.c:32:6:Snake_voidInit	8	static
+../Core/Src/Snake_Logic.c:49:6:Snake_voidChangeDirection	16	static
+../Core/Src/Snake_Logic.c:67:4:Snake_u8Move	16	static
+../Core/Src/Snake_Logic.c:121:9:Snake_stGetHeadPosition	16	static
+../Core/Src/Snake_Logic.c:125:9:Snake_stGetTailPosition	16	static
+../Core/Src/Snake_Logic.c:129:9:Snake_stGetFoodPosition	16	static
+../Core/Src/Snake_Logic.c:133:5:Snake_u16GetLength	4	static
+../Core/Src/Snake_Logic.c:137:5:Snake_u16GetScore	4	static
+../Core/Src/Snake_Logic.c:141:4:Snake_u8IsFoodEaten	4	static
+../Core/Src/Snake_Logic.c:145:5:Snake_u16GetHighScore	4	static

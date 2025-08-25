@@ -1,0 +1,11 @@
+../Core/Src/GUI_Main.c:122:6:GUI_Main_voidRun	16	static
+../Core/Src/GUI_Main.c:162:6:GUI_voidDrawGameCard	64	static
+../Core/Src/GUI_Main.c:178:6:GUI_voidDrawMenu	56	static
+../Core/Src/GUI_Main.c:191:6:GUI_voidUpdateSelection	16	static
+../Core/Src/GUI_Main.c:196:6:HILI_voidDrawRect	32	static
+../Core/Src/GUI_Main.c:203:6:GUI_voidDrawString	48	static
+../Core/Src/GUI_Main.c:223:11:debounce	16	static
+../Core/Src/GUI_Main.c:239:13:Sound_voidInit	8	static
+../Core/Src/GUI_Main.c:244:13:Sound_voidBeep	32	static
+../Core/Src/GUI_Main.c:259:13:Sound_voidPlayNavigate	8	static
+../Core/Src/GUI_Main.c:264:13:Sound_voidPlaySelect	8	static

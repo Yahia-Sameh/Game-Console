@@ -1,0 +1,11 @@
+../Core/Src/GUI_Main.c:122:6:GUI_Main_voidRun	8
+../Core/Src/GUI_Main.c:162:6:GUI_voidDrawGameCard	3
+../Core/Src/GUI_Main.c:178:6:GUI_voidDrawMenu	2
+../Core/Src/GUI_Main.c:191:6:GUI_voidUpdateSelection	1
+../Core/Src/GUI_Main.c:196:6:HILI_voidDrawRect	1
+../Core/Src/GUI_Main.c:203:6:GUI_voidDrawString	8
+../Core/Src/GUI_Main.c:223:11:debounce	4
+../Core/Src/GUI_Main.c:239:13:Sound_voidInit	1
+../Core/Src/GUI_Main.c:244:13:Sound_voidBeep	4
+../Core/Src/GUI_Main.c:259:13:Sound_voidPlayNavigate	1
+../Core/Src/GUI_Main.c:264:13:Sound_voidPlaySelect	1

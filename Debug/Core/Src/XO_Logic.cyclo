@@ -1,0 +1,9 @@
+../Core/Src/XO_Logic.c:9:6:XO_voidInitBoard	3
+../Core/Src/XO_Logic.c:19:4:XO_u8GetCurrentPlayer	1
+../Core/Src/XO_Logic.c:23:6:XO_voidSwitchPlayer	2
+../Core/Src/XO_Logic.c:31:4:XO_u8MakeMove	4
+../Core/Src/XO_Logic.c:41:4:XO_u8CheckGameState	22
+../Core/Src/XO_Logic.c:90:6:XO_voidIncrementWinCount	3
+../Core/Src/XO_Logic.c:98:4:XO_u8GetWinCount	3
+../Core/Src/XO_Logic.c:107:6:XO_voidResetWinCounters	1
+../Core/Src/XO_Logic.c:113:4:XO_u8GetCellState	3

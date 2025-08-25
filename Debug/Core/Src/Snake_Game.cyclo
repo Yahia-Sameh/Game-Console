@@ -1,0 +1,15 @@
+../Core/Src/Snake_Game.c:73:6:Snake_Game_voidRun	7
+../Core/Src/Snake_Game.c:110:13:GUI_voidDrawSnakeSegment	2
+../Core/Src/Snake_Game.c:126:13:GUI_voidDrawFood	3
+../Core/Src/Snake_Game.c:140:13:GUI_voidEraseCell	1
+../Core/Src/Snake_Game.c:146:13:GUI_voidUpdateScore	1
+../Core/Src/Snake_Game.c:153:13:GUI_voidDrawInitialState	1
+../Core/Src/Snake_Game.c:162:13:GUI_voidUpdateScreen	2
+../Core/Src/Snake_Game.c:177:13:GUI_voidShowGameOver	1
+../Core/Src/Snake_Game.c:188:11:debounce	4
+../Core/Src/Snake_Game.c:199:13:GUI_voidDrawString	8
+../Core/Src/Snake_Game.c:224:13:Sound_voidInit	1
+../Core/Src/Snake_Game.c:235:13:Sound_voidBeep	4
+../Core/Src/Snake_Game.c:262:13:Sound_voidPlayClick	1
+../Core/Src/Snake_Game.c:269:13:Sound_voidPlayWin	1
+../Core/Src/Snake_Game.c:278:13:Sound_voidPlayGameOver	1
