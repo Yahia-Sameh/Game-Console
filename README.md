@@ -153,6 +153,11 @@ For detailed technical information, refer to:[
 - [Cortex-M4 Technical Reference Manual](https://www.st.com/resource/en/programming_manual/dm00046982-stm32-cortexm4-mcus-and-mpus-programming-manual-stmicroelectronics.pdf)
 - [TFT Display Datasheet](https://www.kingtechdisplay.com/uploads/file/20241218/pv104007r0240h.pdf)
 
+## 🔗 Standalone Drivers Repository
+
+The bare-metal drivers used in this project are available as a separate standalone library for use in other STM32 projects:
+
+**[STM32 BareMetal Drivers Library](https://github.com/Yahia-Sameh/stm32f4xx-firmware-and-drivers-ARM-Cortex-M)**  
 
 ## 📜 License
 
