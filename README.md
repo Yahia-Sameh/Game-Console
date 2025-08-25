@@ -1,4 +1,4 @@
-# STM32 Game Console - Tic-Tac-Toe & Snake
+# STM32 Game Console 
 
 ![STM32F401](https://img.shields.io/badge/STM32F401-Cortex--M4-03234B.svg)
 ![Bare Metal](https://img.shields.io/badge/Bare--Metal-No%20HAL-green.svg)
